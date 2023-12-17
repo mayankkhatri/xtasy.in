@@ -4,7 +4,7 @@ $(document).ready(function () {
   $(".c-case").flickity({
     cellAlign: "left",
     wrapAround: true,
-    autoPlay: 1000,
+    autoPlay: 1600,
     pageDots: false,
     contain: false, // Set contain to false
   });
