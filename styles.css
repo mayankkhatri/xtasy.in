@@ -207,8 +207,8 @@ header {
   margin-top: 1.5rem;
 }
 .c-tile {
-  width: 33vw;
-  height: 34vw;
+  width: 32vw;
+  height: 32vw;
   border-radius: 15px;
   margin-left: 2rem;
   box-shadow: -2.5px 2.5px 0.5px #0000004e; /* Horizontal offset, vertical offset, blur radius, color */
